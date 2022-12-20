@@ -1,0 +1,10 @@
+[submodule "gax-java"]
+	path = gax-java
+	url = git@github.com:JoeWang1127/gax-java.git
+	branch = 23.0.0-dev_update
+[submodule "java-shared-config"]
+	path = java-shared-config
+	url = git@github.com:JoeWang1127/java-shared-config.git
+[submodule "java-shared-dependencies"]
+	path = java-shared-dependencies
+	url = git@github.com:JoeWang1127/java-shared-dependencies.git
