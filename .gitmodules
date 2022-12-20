@@ -9,3 +9,4 @@
 [submodule "java-shared-dependencies"]
 	path = java-shared-dependencies
 	url = git@github.com:JoeWang1127/java-shared-dependencies.git
+	branch = 23.0.0-dev_update
