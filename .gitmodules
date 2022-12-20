@@ -5,6 +5,7 @@
 [submodule "java-shared-config"]
 	path = java-shared-config
 	url = git@github.com:JoeWang1127/java-shared-config.git
+	branch = 0.9.19_update
 [submodule "java-shared-dependencies"]
 	path = java-shared-dependencies
 	url = git@github.com:JoeWang1127/java-shared-dependencies.git
